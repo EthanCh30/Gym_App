@@ -2,6 +2,14 @@
 
 A ultimate gym training app built with react & tailwindCSS
 
+# UI Overview
+
+Here's a glimpse of the Website, highlighting its features and aesthetics.
+
+![image-20240717085825690](https://s2.loli.net/2024/07/17/qyiUMwLCf63Z2S4.png)
+
+Main view of the Website
+
 # Technologies Used
 
 The project is built using the following technologies and libraries:
